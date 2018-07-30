@@ -10,5 +10,5 @@ This repo provides a basic python script to upload data to an [IBM Cloud](https:
 3. Device Credentials for a device created on Watson IoT
 
 ## To Use
-a. Edit the file to add the device Credentials
-b. python device.py
+1. Edit the file to add the device Credentials
+2. python device.py
